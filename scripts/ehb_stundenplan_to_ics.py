@@ -46,10 +46,10 @@ def stable_uid(event: dict) -> str:
     return f"{h}@{UID_DOMAIN}"
 
 
-def to_ical_event(ev: dict, now_utc: datetime) -> Event:
+def to_ical_event(ev: dict, dtstamp: datetime) -> Event:
     ical = Event()
     ical.add("uid", stable_uid(ev))
-    ical.add("dtstamp", now_utc)
+    ical.add("dtstamp", dtstamp)
 
     dt_start = datetime.fromisoformat(f"{ev['date']}T{ev['start']}:00").replace(tzinfo=TZ)
     dt_end = datetime.fromisoformat(f"{ev['date']}T{ev['end']}:00").replace(tzinfo=TZ)
@@ -79,7 +79,7 @@ def to_ical_event(ev: dict, now_utc: datetime) -> Event:
     return ical
 
 
-def build_calendar(name: str, events: list[dict]) -> Calendar:
+def build_calendar(name: str, events: list[dict], dtstamp: datetime) -> Calendar:
     cal = Calendar()
     cal.add("prodid", f"-//Claudette//EHB Stundenplan {name}//DE")
     cal.add("version", "2.0")
@@ -87,9 +87,8 @@ def build_calendar(name: str, events: list[dict]) -> Calendar:
     cal.add("x-wr-timezone", "Europe/Berlin")
     cal.add("method", "PUBLISH")
 
-    now_utc = datetime.now(ZoneInfo("UTC"))
     for ev in events:
-        cal.add_component(to_ical_event(ev, now_utc))
+        cal.add_component(to_ical_event(ev, dtstamp))
     return cal
 
 
@@ -127,6 +126,14 @@ def main() -> int:
     data = json.loads(Path(args.json).read_text(encoding="utf-8"))
     events: list[dict] = data["events"]
 
+    # DTSTAMP stabil aus dem JSON-fetched-Datum ableiten, damit identische
+    # Stundenplaene auch identische ICS-Dateien erzeugen (keine Leer-Commits).
+    fetched = data.get("fetched")
+    if fetched:
+        dtstamp = datetime.fromisoformat(fetched).replace(tzinfo=ZoneInfo("UTC"))
+    else:
+        dtstamp = datetime.now(ZoneInfo("UTC"))
+
     out_dir: Path = args.out
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -136,14 +143,14 @@ def main() -> int:
     for g in GROSS:
         sel = filter_gross(events, g)
         name = f"Gross {g}"
-        write_ics(build_calendar(name, sel), out_dir / f"gross-{g.lower()}.ics")
+        write_ics(build_calendar(name, sel, dtstamp), out_dir / f"gross-{g.lower()}.ics")
         summary.append((f"gross-{g.lower()}.ics", len(sel)))
 
     # Kleingruppen (nur eigene Events)
     for k in KLEIN:
         sel = filter_klein(events, k)
         name = f"Klein {k}"
-        write_ics(build_calendar(name, sel), out_dir / f"klein-{k}.ics")
+        write_ics(build_calendar(name, sel, dtstamp), out_dir / f"klein-{k}.ics")
         summary.append((f"klein-{k}.ics", len(sel)))
 
     print(f"[ehb-ics] Ausgabe: {out_dir}", file=sys.stderr)
