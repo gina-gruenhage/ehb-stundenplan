@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claudette//EHB Stundenplan Klein 1a//DE
+METHOD:PUBLISH
+X-WR-CALNAME:EHB Hebammen Klein 1a
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:[1a] V 2.6.1 Wochenbett
+DTSTART;TZID=Europe/Berlin:20260604T083000
+DTEND;TZID=Europe/Berlin:20260604T114500
+DTSTAMP:20260408T133107Z
+UID:998b01648a1dd121@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Freifrau von Godin\nGruppe: 1a
+LOCATION:C 102 [6]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1a] V HW 2.6.2 Stillzeit
+DTSTART;TZID=Europe/Berlin:20260608T111500
+DTEND;TZID=Europe/Berlin:20260608T150000
+DTSTAMP:20260408T133107Z
+UID:b160d1364df33311@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Kunze\nBeratung und Unterstützung v. Mutter u. Kind i
+ . d. Stillzeit [2]\nModul: 84-993-20212-2060-V2\nGruppe: 1a
+LOCATION:C 104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1a] V HW 2.5.1 Schwangerenvorsorge
+DTSTART;TZID=Europe/Berlin:20260609T083000
+DTEND;TZID=Europe/Berlin:20260609T114500
+DTSTAMP:20260408T133107Z
+UID:617438cd1d8fd55c@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Professorin Dr. Simon\nSchwangerenvorsorge und -beratu
+ ng [2]\nModul: 84-993-20212-2050-V1\nGruppe: 1a
+LOCATION:C 101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1a] V HW 2.5.2 physiol. Geburt II
+DTSTART;TZID=Europe/Berlin:20260612T083000
+DTEND;TZID=Europe/Berlin:20260612T114500
+DTSTAMP:20260408T133107Z
+UID:a0787b5843e6ea74@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt II 
+ [2]\nModul: 84-993-20212-2050-V2\nGruppe: 1a
+LOCATION:C 104
+END:VEVENT
+END:VCALENDAR
