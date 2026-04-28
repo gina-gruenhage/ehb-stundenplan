@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260401T083000
 DTEND;TZID=Europe/Berlin:20260401T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:5faac9f203d4c700@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nPädiatrische Betreuung des kranken Neugebo
  renen Seminar\nModul: 84-993-20212-2060-V3
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.1 Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260401T123000
 DTEND;TZID=Europe/Berlin:20260401T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:fd2b48fac1f813ab@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nSchwangerenvorsorge und -beratung Seminar
  \nModul: 84-993-20212-2050-V1
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260402T083000
 DTEND;TZID=Europe/Berlin:20260402T100000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:732640819ce6b338@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt II 
  Seminar\nModul: 84-993-20212-2050-V2
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260402T101500
 DTEND;TZID=Europe/Berlin:20260402T134500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:42373bf0045ff2b8@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nFörderung der physiologisch
  en Geburt II Seminar\nModul: 84-993-20212-2050-V2
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260402T141500
 DTEND;TZID=Europe/Berlin:20260402T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:4b65e2e15203a9b0@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nFörderung der physiologisch
  en Geburt II Seminar\nModul: 84-993-20212-2050-V2
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:V HW P2 Praxisbegleitseminar Teil 1 + 2
 DTSTART;TZID=Europe/Berlin:20260407T083000
 DTEND;TZID=Europe/Berlin:20260407T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:20270dca554dee8f@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\, Professorin Dr. Grieshop\nTeil 1 [1]
 LOCATION:B 202
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260408T161500
 DTEND;TZID=Europe/Berlin:20260408T194500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:fd30e6487bd9b33e@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nPädiatrische Betreuung des kranken Neugebo
  renen Seminar Arbeitsauftrag [2]\nModul: 84-993-20212-2060-V3
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.1 Anat. u. phys. Vor. d. menschl. Reprod./Vorl.
 DTSTART;TZID=Europe/Berlin:20260409T101500
 DTEND;TZID=Europe/Berlin:20260409T120000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:d6380ba86a1ccb8f@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nAnatomische u. physiologische
   Voraussetzungen der menschl. Reproduktion II Seminar\nModul: 84-993-20212
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260409T123000
 DTEND;TZID=Europe/Berlin:20260409T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:bbf79f265b7841fc@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nFörderung der physiologisch
  en Geburt II Seminar\nModul: 84-993-20212-2050-V2
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.5 Kommunikation II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260410T083000
 DTEND;TZID=Europe/Berlin:20260410T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:892148ab2e3d7694@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nKommunikation und Beziehungsgestaltung II Semi
  nar\nModul: 84-993-20212-2050-V5
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:V 2.6.1 Wochenbett/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260410T123000
 DTEND;TZID=Europe/Berlin:20260410T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:a39afa3b2480c608@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze
 LOCATION:F 114
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.5 Kommunikation II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260413T131500
 DTEND;TZID=Europe/Berlin:20260413T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:7580808a3c7293d1@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nKommunikation und Beziehungsgestaltung II Semi
  nar\nModul: 84-993-20212-2050-V5
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260413T161500
 DTEND;TZID=Europe/Berlin:20260413T194500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:e72d87757ce74898@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nPädiatrische Betreuung des kranken Neugebo
  renen Seminar\nModul: 84-993-20212-2060-V3
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.1 Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260414T123000
 DTEND;TZID=Europe/Berlin:20260414T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:71bc213871fca939@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nSchwangerenvorsorge und -beratung Seminar
  \nModul: 84-993-20212-2050-V1
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.1 Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260415T123000
 DTEND;TZID=Europe/Berlin:20260415T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:9f751e85141ac51b@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nSchwangerenvorsorge und -beratung Seminar
  \nModul: 84-993-20212-2050-V1
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260415T161500
 DTEND;TZID=Europe/Berlin:20260415T194500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:71621b171613d75f@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nPädiatrische Betreuung des kranken Neugebo
  renen Seminar\nModul: 84-993-20212-2060-V3
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260420T123000
 DTEND;TZID=Europe/Berlin:20260420T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:8c90403a03ca5faa@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nFörderung der physiologisch
  en Geburt II Seminar\nModul: 84-993-20212-2050-V2
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260420T161500
 DTEND;TZID=Europe/Berlin:20260420T194500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:2da3b55841060b27@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nPädiatrische Betreuung des kranken Neugebo
  renen Seminar\nModul: 84-993-20212-2060-V3
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260421T083000
 DTEND;TZID=Europe/Berlin:20260421T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:ab340eec2a0eb407@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nFörderung der physiologischen Geburt II Semina
  r\nModul: 84-993-20212-2050-V2
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.1 Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260421T123000
 DTEND;TZID=Europe/Berlin:20260421T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:00e46f1ec7682989@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nSchwangerenvorsorge und -beratung Seminar
  \nModul: 84-993-20212-2050-V1
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:[B] V HW 2.5.6 Theorie-Praxis-Transfer/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260422T083000
 DTEND;TZID=Europe/Berlin:20260422T144500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:a7a42c58e33f4e75@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]\
  nModul: 84-993-20212-2050-V6\nGruppe: B
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.1 Anat. u. phys. Vor. d. menschl. Reprod./Vorl.
 DTSTART;TZID=Europe/Berlin:20260423T083000
 DTEND;TZID=Europe/Berlin:20260423T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:a6fe8af9196cb07d@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nAnatomische u. physiologische
   Voraussetzungen der menschl. Reproduktion II Seminar\nModul: 84-993-20212
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.3 gynäkologische Erkrankungen Vorl.
 DTSTART;TZID=Europe/Berlin:20260423T123000
 DTEND;TZID=Europe/Berlin:20260423T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:32bd59420fc90f82@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nFrauengesundheit u. gynäkolo
  gische Erkrankungen Seminar\nModul: 84-993-20212-2070-V3
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.2 Stillzeit/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260424T083000
 DTEND;TZID=Europe/Berlin:20260424T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:4df7e4ca4c0a4cd5@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nBeratung und Unterstützung v. Mutter u. Kind i
  . d. Stillzeit Seminar\nModul: 84-993-20212-2060-V2
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.1 Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260424T123000
 DTEND;TZID=Europe/Berlin:20260424T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:80d86d0760de2d0a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nSchwangerenvorsorge und -beratu
  ng Seminar\nModul: 84-993-20212-2050-V1
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.1 Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260427T121500
 DTEND;TZID=Europe/Berlin:20260427T134500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:4f78d486cf00da10@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nSchwangerenvorsorge und -beratung Seminar
  \nModul: 84-993-20212-2050-V1
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260427T151500
 DTEND;TZID=Europe/Berlin:20260427T194500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:dec1ea1e9894dbfb@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nPädiatrische Betreuung des kranken Neugebo
  renen Seminar\nModul: 84-993-20212-2060-V3
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.1 Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260428T083000
 DTEND;TZID=Europe/Berlin:20260428T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:2424c6cd28f85165@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nSchwangerenvorsorge und -beratu
  ng Seminar\nModul: 84-993-20212-2050-V1
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260428T123000
 DTEND;TZID=Europe/Berlin:20260428T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:9f182eed4cbe7a79@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt II 
  Seminar\nModul: 84-993-20212-2050-V2
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.2 Stillzeit/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260429T121500
 DTEND;TZID=Europe/Berlin:20260429T150000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:6df6acc1ca763910@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nBeratung und Unterstützung v. Mutter u. Kind i
  . d. Stillzeit Seminar\nModul: 84-993-20212-2060-V2
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260429T151500
 DTEND;TZID=Europe/Berlin:20260429T194500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:e2a639f6ad23053c@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nPädiatrische Betreuung des kranken Neugebo
  renen Seminar\nModul: 84-993-20212-2060-V3
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260430T083000
 DTEND;TZID=Europe/Berlin:20260430T100000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:66b0e40301080f6e@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt II 
  Seminar\nModul: 84-993-20212-2050-V2
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.3 Betreuungsprozess/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260430T101500
 DTEND;TZID=Europe/Berlin:20260430T134500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:ed3175a2564c78cc@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nBetreuungsprozess und Entscheidungsfindun
  g Seminar\nModul: 84-993-20212-2050-V3
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260430T141500
 DTEND;TZID=Europe/Berlin:20260430T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:4674154dfec98a17@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt II 
  Seminar\nModul: 84-993-20212-2050-V2
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:[B] V HW 2.5.6 Theorie-Praxis-Transfer/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260504T083000
 DTEND;TZID=Europe/Berlin:20260504T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:fd67e86e5d3f0e12@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]\
  nModul: 84-993-20212-2050-V6\nGruppe: B
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.3 Betreuungsprozess/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260505T083000
 DTEND;TZID=Europe/Berlin:20260505T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:db519fc0110fd376@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nBetreuungsprozess und Entscheidungsfindun
  g Seminar\nModul: 84-993-20212-2050-V3
@@ -368,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.4 Diagnostik/Dokumentation/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260505T123000
 DTEND;TZID=Europe/Berlin:20260505T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:9d81b2e6f48cbd10@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nDiagnostik u. Dokumentation wä
  hrend d. Geburt Seminar\nModul: 84-993-20212-2050-V4
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260506T151500
 DTEND;TZID=Europe/Berlin:20260506T194500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:1d8a1d965b639e69@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nPädiatrische Betreuung des kranken Neugebo
  renen Seminar\nModul: 84-993-20212-2060-V3
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.3 gynäkologische Erkrankungen Vorl.
 DTSTART;TZID=Europe/Berlin:20260507T083000
 DTEND;TZID=Europe/Berlin:20260507T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:6732e076636e66d7@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: online\nFrauengesundheit u. gynäkologische Erkrankung
  en Seminar\nModul: 84-993-20212-2070-V3
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.4 Diagnostik/Dokumentation/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260507T123000
 DTEND;TZID=Europe/Berlin:20260507T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:d83686272bc01f96@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nDiagnostik u. Dokumentation wä
  hrend d. Geburt Seminar\nModul: 84-993-20212-2050-V4
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.4 Diagnostik/Dokumentation/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260508T083000
 DTEND;TZID=Europe/Berlin:20260508T100000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:bc9ae4f0455714f4@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nDiagnostik u. Dokumentation w
  ährend d. Geburt Seminar\nModul: 84-993-20212-2050-V4
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.3 gynäkologische Erkrankungen Vorl.
 DTSTART;TZID=Europe/Berlin:20260508T101500
 DTEND;TZID=Europe/Berlin:20260508T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:e96dcaa0499c2175@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nFrauengesundheit u. gynäkolo
  gische Erkrankungen Seminar\nModul: 84-993-20212-2070-V3
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.4 Diagnostik/Dokumentation/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260512T083000
 DTEND;TZID=Europe/Berlin:20260512T124500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:d8ae53fa98a2894b@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nDiagnostik u. Dokumentation wä
  hrend d. Geburt Seminar\nModul: 84-993-20212-2050-V4
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:V 2.6.1 Wochenbett/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260512T133000
 DTEND;TZID=Europe/Berlin:20260512T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:b16690b7ebd2803c@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin
 LOCATION:C 202
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260513T091500
 DTEND;TZID=Europe/Berlin:20260513T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:739555a15d726de7@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nFörderung der physiologischen Geburt II Semina
  r Online [4]\nModul: 84-993-20212-2050-V2
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.3 gynäkologische Erkrankungen Vorl.
 DTSTART;TZID=Europe/Berlin:20260513T123000
 DTEND;TZID=Europe/Berlin:20260513T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:f093f6d47dee88a0@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Roth\nFrauengesundheit u. gynäkologische Erkranku
  ngen Seminar Online [4]\nModul: 84-993-20212-2070-V3
@@ -466,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260515T083000
 DTEND;TZID=Europe/Berlin:20260515T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:abb9753b4a0834a0@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nFörderung der physiologischen Geburt II Semina
  r\nModul: 84-993-20212-2050-V2
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.2 Determinanten v. Gesundheit u. Krankheit Vorl.
 DTSTART;TZID=Europe/Berlin:20260515T123000
 DTEND;TZID=Europe/Berlin:20260515T150000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:9186edec79b17435@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nDeterminanten v. Gesundheit u
  . Krankheit Seminar\nModul: 84-993-20212-2070-V2
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:V 2.6.1 Wochenbett/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260518T123000
 DTEND;TZID=Europe/Berlin:20260518T150000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:e3285463a949a292@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin
 LOCATION:C 202
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260518T151500
 DTEND;TZID=Europe/Berlin:20260518T194500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:9a0c5fdafaefd615@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nPädiatrische Betreuung des kranken Neugebo
  renen Seminar\nModul: 84-993-20212-2060-V3
@@ -505,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:V 2.6.1 Wochenbett/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260519T083000
 DTEND;TZID=Europe/Berlin:20260519T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:adad492ee48caf02@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin
 LOCATION:C 202
@@ -514,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.3 Betreuungsprozess/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260519T123000
 DTEND;TZID=Europe/Berlin:20260519T150000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:24777f584d2a46fc@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nBetreuungsprozess und Entscheidungsfindun
  g Seminar\nModul: 84-993-20212-2050-V3
@@ -524,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.4 Grundlagen d. Pharmakologie Vorl.
 DTSTART;TZID=Europe/Berlin:20260520T083000
 DTEND;TZID=Europe/Berlin:20260520T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:115553176d0347e8@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Neumann\nGrundlagen der Pharmakologie Seminar\nModul: 
  84-993-20212-2070-V4
@@ -534,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.1 Anat. u. phys. Vor. d. menschl. Reprod./Vorl.
 DTSTART;TZID=Europe/Berlin:20260520T123000
 DTEND;TZID=Europe/Berlin:20260520T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:3627d4a3907a598b@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nAnatomische u. physiologische
   Voraussetzungen der menschl. Reproduktion II Seminar\nModul: 84-993-20212
@@ -545,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.3 gynäkologische Erkrankungen Vorl.
 DTSTART;TZID=Europe/Berlin:20260521T083000
 DTEND;TZID=Europe/Berlin:20260521T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:e28e2066af409828@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Scharf\nFrauengesundheit u. gynäkologische Erkran
  kungen Seminar\nModul: 84-993-20212-2070-V3
@@ -555,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:V 2.6.1 Wochenbett/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260521T123000
 DTEND;TZID=Europe/Berlin:20260521T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:929595a305f070a2@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin
 LOCATION:online
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260522T083000
 DTEND;TZID=Europe/Berlin:20260522T100000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:e7164b82431c2c12@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nFörderung der physiologische
  n Geburt II Seminar\nModul: 84-993-20212-2050-V2
@@ -574,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.1 Anat. u. phys. Vor. d. menschl. Reprod./Vorl.
 DTSTART;TZID=Europe/Berlin:20260522T101500
 DTEND;TZID=Europe/Berlin:20260522T120000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:a5b96f92d5bf3747@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nAnatomische u. physiologische
   Voraussetzungen der menschl. Reproduktion II Seminar\nModul: 84-993-20212
@@ -585,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.2 Determinanten v. Gesundheit u. Krankheit Vorl.
 DTSTART;TZID=Europe/Berlin:20260522T123000
 DTEND;TZID=Europe/Berlin:20260522T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:bcf699572c8d3851@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nDeterminanten v. Gesundheit u
  . Krankheit Seminar\nModul: 84-993-20212-2070-V2
@@ -595,7 +595,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.2 Stillzeit/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260526T083000
 DTEND;TZID=Europe/Berlin:20260526T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:6e4d0d72536b3776@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nBeratung und Unterstützung v. Mutter u. Kind i
  . d. Stillzeit Seminar\nModul: 84-993-20212-2060-V2
@@ -605,7 +605,7 @@ BEGIN:VEVENT
 SUMMARY:V 2.6.1 Wochenbett/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260526T123000
 DTEND;TZID=Europe/Berlin:20260526T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:48f74f3d8e3d6d15@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin
 LOCATION:C 202
@@ -614,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.4 Grundlagen d. Pharmakologie Vorl.
 DTSTART;TZID=Europe/Berlin:20260527T083000
 DTEND;TZID=Europe/Berlin:20260527T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:089c9b75bd44f844@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Neumann\nGrundlagen der Pharmakologie Seminar\nModul: 
  84-993-20212-2070-V4
@@ -624,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.3 gynäkologische Erkrankungen Vorl.
 DTSTART;TZID=Europe/Berlin:20260527T123000
 DTEND;TZID=Europe/Berlin:20260527T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:4904a04122571587@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Roth\nFrauengesundheit u. gynäkologische Erkranku
  ngen Seminar\nModul: 84-993-20212-2070-V3
@@ -634,7 +634,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.2 Determinanten v. Gesundheit u. Krankheit Vorl.
 DTSTART;TZID=Europe/Berlin:20260528T083000
 DTEND;TZID=Europe/Berlin:20260528T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:96317988ba9fa306@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nDeterminanten v. Gesundheit u
  . Krankheit Seminar\nModul: 84-993-20212-2070-V2
@@ -644,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.2 Determinanten v. Gesundheit u. Krankheit Vorl.
 DTSTART;TZID=Europe/Berlin:20260528T123000
 DTEND;TZID=Europe/Berlin:20260528T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:be77c1ee6715a60b@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professor Dr. Lück\nDeterminanten v. Gesundheit u. Kr
  ankheit Seminar\nModul: 84-993-20212-2070-V2
@@ -654,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.2 Determinanten v. Gesundheit u. Krankheit Vorl.
 DTSTART;TZID=Europe/Berlin:20260529T091500
 DTEND;TZID=Europe/Berlin:20260529T120000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:7de742b66c8ec2fd@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professor Dr. Lück\nDeterminanten v. Gesundheit u. Kr
  ankheit Seminar\nModul: 84-993-20212-2070-V2
@@ -664,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.1 Anat. u. phys. Vor. d. menschl. Reprod./Vorl.
 DTSTART;TZID=Europe/Berlin:20260529T123000
 DTEND;TZID=Europe/Berlin:20260529T150000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:bdef515e02150d7e@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nAnatomische u. physiologische
   Voraussetzungen der menschl. Reproduktion II Seminar\nModul: 84-993-20212
@@ -675,7 +675,7 @@ BEGIN:VEVENT
 SUMMARY:[B] V HW 2.5.6 Theorie-Praxis-Transfer/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260601T083000
 DTEND;TZID=Europe/Berlin:20260601T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:17170930bb97c337@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]\
  nModul: 84-993-20212-2050-V6\nGruppe: B
@@ -685,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:V HW P2 Praxisbegleitseminar Teil 1 + 2
 DTSTART;TZID=Europe/Berlin:20260602T083000
 DTEND;TZID=Europe/Berlin:20260602T144500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:f2d265809297f504@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\, Professorin Dr. Grieshop\nTeil 2 [5]
 LOCATION:C 202
@@ -694,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.4 Grundlagen d. Pharmakologie Vorl.
 DTSTART;TZID=Europe/Berlin:20260603T083000
 DTEND;TZID=Europe/Berlin:20260603T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:ac7adff8146643f2@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Neumann\nGrundlagen der Pharmakologie Seminar\nModul: 
  84-993-20212-2070-V4
@@ -704,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.2 Determinanten v. Gesundheit u. Krankheit Vorl.
 DTSTART;TZID=Europe/Berlin:20260603T123000
 DTEND;TZID=Europe/Berlin:20260603T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:1b8247a47f8778f5@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professor Dr. Lück\nDeterminanten v. Gesundheit u. Kr
  ankheit Seminar\nModul: 84-993-20212-2070-V2
@@ -714,7 +714,7 @@ BEGIN:VEVENT
 SUMMARY:[B] V HW 2.5.3 Betreuungsprozess
 DTSTART;TZID=Europe/Berlin:20260604T083000
 DTEND;TZID=Europe/Berlin:20260604T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:d6a212656fa9b7fb@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nBetreuungsprozess und Entscheidungsfindun
  g Gruppe B [2]\nModul: 84-993-20212-2050-V3\nGruppe: B
@@ -724,7 +724,7 @@ BEGIN:VEVENT
 SUMMARY:V 2.6.1 Wochenbett/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260604T123000
 DTEND;TZID=Europe/Berlin:20260604T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:4b0b25a9ddd1fd35@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin
 LOCATION:C 202
@@ -733,7 +733,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.5.2 physiol. Geburt II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260605T083000
 DTEND;TZID=Europe/Berlin:20260605T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:5f55e8ffe28dbabc@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nFörderung der physiologische
  n Geburt II Seminar\nModul: 84-993-20212-2050-V2
@@ -743,7 +743,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.2 Determinanten v. Gesundheit u. Krankheit Vorl.
 DTSTART;TZID=Europe/Berlin:20260605T123000
 DTEND;TZID=Europe/Berlin:20260605T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:113de79af4e0922a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nDeterminanten v. Gesundheit u
  . Krankheit Seminar\nModul: 84-993-20212-2070-V2
@@ -753,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260608T151500
 DTEND;TZID=Europe/Berlin:20260608T194500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:706baf5a24a2c57f@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nPädiatrische Betreuung des kranken Neugebo
  renen Seminar\nModul: 84-993-20212-2060-V3
@@ -763,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:[B] V HW 2.5.5 Kommunikation II
 DTSTART;TZID=Europe/Berlin:20260609T083000
 DTEND;TZID=Europe/Berlin:20260609T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:c51dee3a80dee21d@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Banasiak\nKommunikation und Beziehungsgestaltung II Gr
  uppe B [4]\nModul: 84-993-20212-2050-V5\nGruppe: B
@@ -773,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:[B] V HW 2.5.5 Kommunikation II
 DTSTART;TZID=Europe/Berlin:20260609T123000
 DTEND;TZID=Europe/Berlin:20260609T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:8096b4e568eace63@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Banasiak\nKommunikation und Beziehungsgestaltung II Gr
  uppe B [4]\nModul: 84-993-20212-2050-V5\nGruppe: B
@@ -783,7 +783,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.4 Grundlagen d. Pharmakologie Vorl.
 DTSTART;TZID=Europe/Berlin:20260610T083000
 DTEND;TZID=Europe/Berlin:20260610T110000
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:4c2f5acaf20bc35d@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Neumann\nGrundlagen der Pharmakologie Seminar\nModul: 
  84-993-20212-2070-V4
@@ -793,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.2 Determinanten v. Gesundheit u. Krankheit Vorl.
 DTSTART;TZID=Europe/Berlin:20260610T123000
 DTEND;TZID=Europe/Berlin:20260610T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:709e37ab1b4c8915@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professor Dr. Lück\nDeterminanten v. Gesundheit u. Kr
  ankheit Seminar\nModul: 84-993-20212-2070-V2
@@ -803,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 2.7.3 gynäkologische Erkrankungen Vorl.
 DTSTART;TZID=Europe/Berlin:20260611T083000
 DTEND;TZID=Europe/Berlin:20260611T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:70209414e170f747@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Scharf\nFrauengesundheit u. gynäkologische Erkran
  kungen Seminar\nModul: 84-993-20212-2070-V3

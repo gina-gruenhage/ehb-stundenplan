@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:[2b] V HW 2.5.1 Schwangerenvorsorge
 DTSTART;TZID=Europe/Berlin:20260511T083000
 DTEND;TZID=Europe/Berlin:20260511T114500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:1ec40c14222d6436@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nSchwangerenvorsorge und -beratu
  ng Gruppe 2b [1]\nModul: 84-993-20212-2050-V1\nGruppe: 2b
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:[2b] V HW 2.5.2 physiol. Geburt II
 DTSTART;TZID=Europe/Berlin:20260511T123000
 DTEND;TZID=Europe/Berlin:20260511T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:cd3a66a8e1e93e3d@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt II 
  Gruppe 2b [1]\nModul: 84-993-20212-2050-V2\nGruppe: 2b
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[2b] V 2.6.1 Wochenbett
 DTSTART;TZID=Europe/Berlin:20260601T123000
 DTEND;TZID=Europe/Berlin:20260601T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:661dbd7a36afd2b1@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\nGruppe 2b [8]\nGruppe: 2b
 LOCATION:C 102
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:[2b] V HW 2.6.2 Stillzeit
 DTSTART;TZID=Europe/Berlin:20260611T123000
 DTEND;TZID=Europe/Berlin:20260611T154500
-DTSTAMP:20260427T000000Z
+DTSTAMP:20260428T000000Z
 UID:dabb3c9aaee1d0ba@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nBeratung und Unterstützung v. Mutter u. Kind i
  . d. Stillzeit Gruppe 2b und 2a [9]\nModul: 84-993-20212-2060-V2\nGruppe: 
