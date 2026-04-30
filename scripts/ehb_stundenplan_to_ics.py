@@ -15,8 +15,11 @@ Updates korrekt zuordnen. DTSTAMP wird bei jedem Lauf aktualisiert, damit
 abonnierende Clients Aenderungen erkennen.
 
 Usage:
-    python3 execution/ehb_stundenplan_to_ics.py
-    python3 execution/ehb_stundenplan_to_ics.py --json tmp/ehb_events.json --out studium/EHB-Stundenplan/ics
+    python3 execution/ehb_stundenplan_to_ics.py --semester 2
+    python3 execution/ehb_stundenplan_to_ics.py \
+        --json tmp/ehb_events_s4.json \
+        --out ../ehb-stundenplan-s4/docs/ics \
+        --semester 4
 """
 from __future__ import annotations
 
@@ -79,11 +82,11 @@ def to_ical_event(ev: dict, dtstamp: datetime) -> Event:
     return ical
 
 
-def build_calendar(name: str, events: list[dict], dtstamp: datetime) -> Calendar:
+def build_calendar(calname: str, events: list[dict], dtstamp: datetime) -> Calendar:
     cal = Calendar()
-    cal.add("prodid", f"-//Claudette//EHB Stundenplan {name}//DE")
+    cal.add("prodid", f"-//Claudette//EHB Stundenplan {calname}//DE")
     cal.add("version", "2.0")
-    cal.add("x-wr-calname", f"EHB Hebammen {name}")
+    cal.add("x-wr-calname", calname)
     cal.add("x-wr-timezone", "Europe/Berlin")
     cal.add("method", "PUBLISH")
 
@@ -121,6 +124,12 @@ def main() -> int:
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--json", default=str(DEFAULT_JSON), type=Path)
     p.add_argument("--out", default=str(DEFAULT_OUT), type=Path)
+    p.add_argument(
+        "--semester",
+        required=True,
+        help="Semester-Nummer fuer Kalender-Anzeigenamen, z.B. '2' oder '4'. "
+        "Wird zu 'EHB HW {N}. Sem Plenum & X' bzw. 'EHB HW {N}. Sem Klein 1a'.",
+    )
     args = p.parse_args()
 
     data = json.loads(Path(args.json).read_text(encoding="utf-8"))
@@ -142,15 +151,15 @@ def main() -> int:
     # Grossgruppen (Plenum + eigene Events)
     for g in GROSS:
         sel = filter_gross(events, g)
-        name = f"Gross {g}"
-        write_ics(build_calendar(name, sel, dtstamp), out_dir / f"gross-{g.lower()}.ics")
+        calname = f"EHB HW {args.semester}. Sem Plenum & {g}"
+        write_ics(build_calendar(calname, sel, dtstamp), out_dir / f"gross-{g.lower()}.ics")
         summary.append((f"gross-{g.lower()}.ics", len(sel)))
 
     # Kleingruppen (nur eigene Events)
     for k in KLEIN:
         sel = filter_klein(events, k)
-        name = f"Klein {k}"
-        write_ics(build_calendar(name, sel, dtstamp), out_dir / f"klein-{k}.ics")
+        calname = f"EHB HW {args.semester}. Sem Klein {k}"
+        write_ics(build_calendar(calname, sel, dtstamp), out_dir / f"klein-{k}.ics")
         summary.append((f"klein-{k}.ics", len(sel)))
 
     print(f"[ehb-ics] Ausgabe: {out_dir}", file=sys.stderr)

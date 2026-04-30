@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Claudette//EHB Stundenplan Gross A//DE
+PRODID:-//Claudette//EHB Stundenplan EHB HW 2. Sem Plenum & A//DE
 METHOD:PUBLISH
-X-WR-CALNAME:EHB Hebammen Gross A
+X-WR-CALNAME:EHB HW 2. Sem Plenum & A
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:V HW 2.6.3 Pädiatrie II/Vorlesung

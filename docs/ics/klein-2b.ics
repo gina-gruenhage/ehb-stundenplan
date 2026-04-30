@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Claudette//EHB Stundenplan Klein 2b//DE
+PRODID:-//Claudette//EHB Stundenplan EHB HW 2. Sem Klein 2b//DE
 METHOD:PUBLISH
-X-WR-CALNAME:EHB Hebammen Klein 2b
+X-WR-CALNAME:EHB HW 2. Sem Klein 2b
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:[2b] V HW 2.5.1 Schwangerenvorsorge

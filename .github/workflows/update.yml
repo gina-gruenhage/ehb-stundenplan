@@ -32,7 +32,7 @@ jobs:
         run: python scripts/ehb_stundenplan_fetch.py --out tmp/ehb_events.json
 
       - name: JSON → ICS Feeds
-        run: python scripts/ehb_stundenplan_to_ics.py --json tmp/ehb_events.json --out docs/ics
+        run: python scripts/ehb_stundenplan_to_ics.py --json tmp/ehb_events.json --out docs/ics --semester 2
 
       - name: Commit and push if changed
         run: |

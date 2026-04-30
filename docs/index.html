@@ -212,7 +212,7 @@
       result.classList.add('show');
 
       updateFeed('feed-gross', sel.gross,
-        sel.gross ? `Großgruppe ${sel.gross.toUpperCase()} (inkl. Plenum)` : null,
+        sel.gross ? `Plenum & ${sel.gross.toUpperCase()}` : null,
         sel.gross ? `gross-${sel.gross}.ics` : null);
       updateFeed('feed-klein', sel.klein,
         sel.klein ? `Kleingruppe ${sel.klein}` : null,

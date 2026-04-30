@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Claudette//EHB Stundenplan Klein 1a//DE
+PRODID:-//Claudette//EHB Stundenplan EHB HW 2. Sem Klein 1a//DE
 METHOD:PUBLISH
-X-WR-CALNAME:EHB Hebammen Klein 1a
+X-WR-CALNAME:EHB HW 2. Sem Klein 1a
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:[1a] V 2.6.1 Wochenbett
