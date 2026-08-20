@@ -43,4 +43,26 @@ DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt II
  Gruppe 1a [2]\nModul: 84-993-20212-2050-V2\nGruppe: 1a
 LOCATION:C 104
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1a] V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Gebu
+ rtsverlauf/Vorl.
+DTSTART;TZID=Europe/Berlin:20261117T123000
+DTEND;TZID=Europe/Berlin:20261117T154500
+DTSTAMP:20260820T000000Z
+UID:3378dcb7fb11145e@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Bezold\nDiagnostik u. Therapie bei Abweichungen v. reg
+ elr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3\nGruppe: 1a
+LOCATION:C 205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1a] V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Gebu
+ rtsverlauf/Vorl.
+DTSTART;TZID=Europe/Berlin:20261117T083000
+DTEND;TZID=Europe/Berlin:20261117T114500
+DTSTAMP:20260820T000000Z
+UID:f6606cd1f7c5c068@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Beitz\nDiagnostik u. Therapie bei Abweichungen v. rege
+ lr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3\nGruppe: 1a
+LOCATION:C 101
+END:VEVENT
 END:VCALENDAR

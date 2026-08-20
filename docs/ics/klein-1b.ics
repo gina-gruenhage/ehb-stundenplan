@@ -43,4 +43,26 @@ DESCRIPTION:Dozent: Professorin Dr. Simon\nSchwangerenvorsorge und -beratu
  ng Gruppe 1b [6]\nModul: 84-993-20212-2050-V1\nGruppe: 1b
 LOCATION:C 101
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1b] V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Gebu
+ rtsverlauf/Vorl.
+DTSTART;TZID=Europe/Berlin:20261117T123000
+DTEND;TZID=Europe/Berlin:20261117T154500
+DTSTAMP:20260820T000000Z
+UID:c0ea24e1a432c807@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Beitz\nDiagnostik u. Therapie bei Abweichungen v. rege
+ lr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3\nGruppe: 1b
+LOCATION:C 101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1b] V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Gebu
+ rtsverlauf/Vorl.
+DTSTART;TZID=Europe/Berlin:20261117T083000
+DTEND;TZID=Europe/Berlin:20261117T114500
+DTSTAMP:20260820T000000Z
+UID:f16df0102c63d604@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Bezold\nDiagnostik u. Therapie bei Abweichungen v. reg
+ elr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3\nGruppe: 1b
+LOCATION:B 204
+END:VEVENT
 END:VCALENDAR

@@ -44,4 +44,26 @@ DESCRIPTION:Dozent: Kunze\nBeratung und Unterstützung v. Mutter u. Kind i
  2b
 LOCATION:C 104
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2b] V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Gebu
+ rtsverlauf/Vorl.
+DTSTART;TZID=Europe/Berlin:20261116T121500
+DTEND;TZID=Europe/Berlin:20261116T151500
+DTSTAMP:20260820T000000Z
+UID:722eb9947bc2798d@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Beitz\nDiagnostik u. Therapie bei Abweichungen v. rege
+ lr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3\nGruppe: 2b
+LOCATION:C 101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2b] V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Gebu
+ rtsverlauf/Vorl.
+DTSTART;TZID=Europe/Berlin:20261118T121500
+DTEND;TZID=Europe/Berlin:20261118T151500
+DTSTAMP:20260820T000000Z
+UID:77ea925ab25e19e6@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Bezold\nDiagnostik u. Therapie bei Abweichungen v. reg
+ elr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3\nGruppe: 2b
+LOCATION:C 205
+END:VEVENT
 END:VCALENDAR

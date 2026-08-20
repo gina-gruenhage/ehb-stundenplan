@@ -209,8 +209,8 @@ DTSTART;TZID=Europe/Berlin:20260422T083000
 DTEND;TZID=Europe/Berlin:20260422T144500
 DTSTAMP:20260820T000000Z
 UID:a7a42c58e33f4e75@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]
- \nModul: 84-993-20212-2050-V6\nGruppe: B
+DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]\
+ nModul: 84-993-20212-2050-V6\nGruppe: B
 LOCATION:B 101
 END:VEVENT
 BEGIN:VEVENT
@@ -350,8 +350,8 @@ DTSTART;TZID=Europe/Berlin:20260504T083000
 DTEND;TZID=Europe/Berlin:20260504T114500
 DTSTAMP:20260820T000000Z
 UID:fd67e86e5d3f0e12@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]
- \nModul: 84-993-20212-2050-V6\nGruppe: B
+DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]\
+ nModul: 84-993-20212-2050-V6\nGruppe: B
 LOCATION:B 201
 END:VEVENT
 BEGIN:VEVENT
@@ -677,8 +677,8 @@ DTSTART;TZID=Europe/Berlin:20260601T083000
 DTEND;TZID=Europe/Berlin:20260601T114500
 DTSTAMP:20260820T000000Z
 UID:17170930bb97c337@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]
- \nModul: 84-993-20212-2050-V6\nGruppe: B
+DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]\
+ nModul: 84-993-20212-2050-V6\nGruppe: B
 LOCATION:B 204
 END:VEVENT
 BEGIN:VEVENT
@@ -1006,28 +1006,6 @@ DESCRIPTION:Dozent: Weeber-Pilz\nTheorie-Praxis-Transfer Seminar\nModul: 8
 LOCATION:B 202
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261116T121500
-DTEND;TZID=Europe/Berlin:20261116T151500
-DTSTAMP:20260820T000000Z
-UID:722eb9947bc2798d@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 2b\, Beitz\nDiagnostik u. Therapie bei Abweichungen v.
-  regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:C 101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261116T121500
-DTEND;TZID=Europe/Berlin:20261116T151500
-DTSTAMP:20260820T000000Z
-UID:9ca9137bb120f20a@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 2a\, Bezold\nDiagnostik u. Therapie bei Abweichungen v
- . regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:C 205
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:V HW 3.8.2 Entwicklungsstörungen d. Neugeborenen/Vorl.
 DTSTART;TZID=Europe/Berlin:20261116T151500
 DTEND;TZID=Europe/Berlin:20261116T194500
@@ -1036,72 +1014,6 @@ UID:b371380c16f82ceb@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nEntwicklungsstörungen des Neugeborenen u. 
  Säuglings Seminar\nModul: 84-993-20212-3080-V2
 LOCATION:B 202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261117T123000
-DTEND;TZID=Europe/Berlin:20261117T154500
-DTSTAMP:20260820T000000Z
-UID:3378dcb7fb11145e@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 1a\, Bezold\nDiagnostik u. Therapie bei Abweichungen v
- . regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:C 205
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261117T123000
-DTEND;TZID=Europe/Berlin:20261117T154500
-DTSTAMP:20260820T000000Z
-UID:c0ea24e1a432c807@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 1b\, Beitz\nDiagnostik u. Therapie bei Abweichungen v.
-  regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:C 101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261117T083000
-DTEND;TZID=Europe/Berlin:20261117T114500
-DTSTAMP:20260820T000000Z
-UID:f16df0102c63d604@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 1b\, Bezold\nDiagnostik u. Therapie bei Abweichungen v
- . regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:B 204
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261117T083000
-DTEND;TZID=Europe/Berlin:20261117T114500
-DTSTAMP:20260820T000000Z
-UID:f6606cd1f7c5c068@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 1a\, Beitz\nDiagnostik u. Therapie bei Abweichungen v.
-  regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:C 101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261118T121500
-DTEND;TZID=Europe/Berlin:20261118T151500
-DTSTAMP:20260820T000000Z
-UID:3b087b995662d8be@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 2a\, Beitz\nDiagnostik u. Therapie bei Abweichungen v.
-  regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:C 101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261118T121500
-DTEND;TZID=Europe/Berlin:20261118T151500
-DTSTAMP:20260820T000000Z
-UID:77ea925ab25e19e6@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 2b\, Bezold\nDiagnostik u. Therapie bei Abweichungen v
- . regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:C 205
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V HW 3.8.2 Entwicklungsstörungen d. Neugeborenen/Vorl.
@@ -1122,50 +1034,6 @@ UID:605c8fd40b05427e@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\, Kunze\nPraxisbegleitseminar
   Termin 2\nModul: 84-993-20212-3080-V5
 LOCATION:B 202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261120T083000
-DTEND;TZID=Europe/Berlin:20261120T114500
-DTSTAMP:20260820T000000Z
-UID:30223d4d5a4d45a8@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 3b\, Bezold\nDiagnostik u. Therapie bei Abweichungen v
- . regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:B 204
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261120T083000
-DTEND;TZID=Europe/Berlin:20261120T114500
-DTSTAMP:20260820T000000Z
-UID:475e779f79f3271d@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 3a\, Beitz\nDiagnostik u. Therapie bei Abweichungen v.
-  regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:C 101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261120T123000
-DTEND;TZID=Europe/Berlin:20261120T154500
-DTSTAMP:20260820T000000Z
-UID:e75e5f409da47e4e@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 3b\, Beitz\nDiagnostik u. Therapie bei Abweichungen v.
-  regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:C 101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V HW 3.8.3 Diagn. u. Therapie b. Abweichungen v. regelr. Geburtsve
- rlauf/Vorl.
-DTSTART;TZID=Europe/Berlin:20261120T123000
-DTEND;TZID=Europe/Berlin:20261120T154500
-DTSTAMP:20260820T000000Z
-UID:e93b37012af2f345@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: 3a\, Bezold\nDiagnostik u. Therapie bei Abweichungen v
- . regelr. Geburtsverlauf Seminar\nModul: 84-993-20212-3080-V3
-LOCATION:B 204
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V HW 3.8.2 Entwicklungsstörungen d. Neugeborenen/Vorl.
