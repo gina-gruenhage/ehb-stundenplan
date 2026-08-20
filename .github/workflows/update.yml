@@ -10,6 +10,9 @@ on:
 permissions:
   contents: write
 
+env:
+  BASE: https://www.eh-berlin.de/stundenplan/Studierende/HTML
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -25,11 +28,39 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 icalendar
 
-      - name: Fetch Stundenplan → JSON
-        run: python scripts/ehb_stundenplan_fetch.py --out tmp/ehb_events.json
+      # Dieses Repo hostet drei Matrikel-Feedsets. Jedes vereinigt den alten
+      # (SoSe) und den neuen (WiSe) Plan der Kohorte; ein offline genommener
+      # alter Link wird uebersprungen, die alten Termine bleiben trotzdem im
+      # Feed (Merge in ehb_stundenplan_to_ics.py). Feed-URLs bleiben stabil.
 
-      - name: JSON → ICS Feeds
-        run: python scripts/ehb_stundenplan_to_ics.py --json tmp/ehb_events.json --out docs/ics --semester 2
+      # --- Matrikel 25 (2.+3. Sem) → docs/ics/ (bestehende URLs, unveraendert) ---
+      - name: Matrikel 25 – Fetch
+        run: >
+          python scripts/ehb_stundenplan_fetch.py
+          --url $BASE/H_2_H2.html
+          --url $BASE/Hebammenwissenschaften_3_H3.html
+          --out tmp/m25.json
+      - name: Matrikel 25 – ICS
+        run: python scripts/ehb_stundenplan_to_ics.py --json tmp/m25.json --out docs/ics --semester 3
+
+      # --- Matrikel 23 (6.+7. Sem) → docs/ics/matrikel23/ ---
+      - name: Matrikel 23 – Fetch
+        run: >
+          python scripts/ehb_stundenplan_fetch.py
+          --url $BASE/H_6_H6.html
+          --url $BASE/Hebammenwissenschaften_7_H7.html
+          --out tmp/m23.json
+      - name: Matrikel 23 – ICS
+        run: python scripts/ehb_stundenplan_to_ics.py --json tmp/m23.json --out docs/ics/matrikel23 --semester 7
+
+      # --- Matrikel 26 (1. Sem, Erstsemester, kein alter Plan) → docs/ics/matrikel26/ ---
+      - name: Matrikel 26 – Fetch
+        run: >
+          python scripts/ehb_stundenplan_fetch.py
+          --url $BASE/Hebammenwissenschaften_1_H1.html
+          --out tmp/m26.json
+      - name: Matrikel 26 – ICS
+        run: python scripts/ehb_stundenplan_to_ics.py --json tmp/m26.json --out docs/ics/matrikel26 --semester 1
 
       - name: Commit and push if changed
         run: |
