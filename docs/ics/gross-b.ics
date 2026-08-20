@@ -209,8 +209,8 @@ DTSTART;TZID=Europe/Berlin:20260422T083000
 DTEND;TZID=Europe/Berlin:20260422T144500
 DTSTAMP:20260820T000000Z
 UID:a7a42c58e33f4e75@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]\
- nModul: 84-993-20212-2050-V6\nGruppe: B
+DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]
+ \nModul: 84-993-20212-2050-V6\nGruppe: B
 LOCATION:B 101
 END:VEVENT
 BEGIN:VEVENT
@@ -350,8 +350,8 @@ DTSTART;TZID=Europe/Berlin:20260504T083000
 DTEND;TZID=Europe/Berlin:20260504T114500
 DTSTAMP:20260820T000000Z
 UID:fd67e86e5d3f0e12@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]\
- nModul: 84-993-20212-2050-V6\nGruppe: B
+DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]
+ \nModul: 84-993-20212-2050-V6\nGruppe: B
 LOCATION:B 201
 END:VEVENT
 BEGIN:VEVENT
@@ -677,8 +677,8 @@ DTSTART;TZID=Europe/Berlin:20260601T083000
 DTEND;TZID=Europe/Berlin:20260601T114500
 DTSTAMP:20260820T000000Z
 UID:17170930bb97c337@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]\
- nModul: 84-993-20212-2050-V6\nGruppe: B
+DESCRIPTION:Dozent: Prossel\nTheorie-Praxis-Transfer Seminar Gruppe B [2]
+ \nModul: 84-993-20212-2050-V6\nGruppe: B
 LOCATION:B 204
 END:VEVENT
 BEGIN:VEVENT

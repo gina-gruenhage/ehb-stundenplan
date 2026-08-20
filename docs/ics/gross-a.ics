@@ -169,8 +169,8 @@ DTSTART;TZID=Europe/Berlin:20260417T083000
 DTEND;TZID=Europe/Berlin:20260417T144500
 DTSTAMP:20260820T000000Z
 UID:3453cc9e1f2dca71@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Faensen\nTheorie-Praxis-Transfer Seminar Gruppe A [1]\
- nModul: 84-993-20212-2050-V6\nGruppe: A
+DESCRIPTION:Dozent: Faensen\nTheorie-Praxis-Transfer Seminar Gruppe A [1]
+ \nModul: 84-993-20212-2050-V6\nGruppe: A
 LOCATION:B 204
 END:VEVENT
 BEGIN:VEVENT
@@ -370,8 +370,8 @@ DTSTART;TZID=Europe/Berlin:20260504T083000
 DTEND;TZID=Europe/Berlin:20260504T114500
 DTSTAMP:20260820T000000Z
 UID:61ff5eedaa7749c0@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Faensen\nTheorie-Praxis-Transfer Seminar Gruppe A [1]\
- nModul: 84-993-20212-2050-V6\nGruppe: A
+DESCRIPTION:Dozent: Faensen\nTheorie-Praxis-Transfer Seminar Gruppe A [1]
+ \nModul: 84-993-20212-2050-V6\nGruppe: A
 LOCATION:B 202
 END:VEVENT
 BEGIN:VEVENT
@@ -697,8 +697,8 @@ DTSTART;TZID=Europe/Berlin:20260601T083000
 DTEND;TZID=Europe/Berlin:20260601T114500
 DTSTAMP:20260820T000000Z
 UID:709b029fe93726d5@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Faensen\nTheorie-Praxis-Transfer Seminar Gruppe A [1]\
- nModul: 84-993-20212-2050-V6\nGruppe: A
+DESCRIPTION:Dozent: Faensen\nTheorie-Praxis-Transfer Seminar Gruppe A [1]
+ \nModul: 84-993-20212-2050-V6\nGruppe: A
 LOCATION:C 202
 END:VEVENT
 BEGIN:VEVENT

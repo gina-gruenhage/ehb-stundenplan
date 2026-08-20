@@ -749,8 +749,8 @@ DTSTART;TZID=Europe/Berlin:20261007T083000
 DTEND;TZID=Europe/Berlin:20261007T114500
 DTSTAMP:20260820T000000Z
 UID:1320e02fc78a792f@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar\
- nModul: 84-993-20212-7190-V1
+DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar
+ \nModul: 84-993-20212-7190-V1
 LOCATION:C 202
 END:VEVENT
 BEGIN:VEVENT
@@ -809,8 +809,8 @@ DTSTART;TZID=Europe/Berlin:20261208T123000
 DTEND;TZID=Europe/Berlin:20261208T154500
 DTSTAMP:20260820T000000Z
 UID:50a65490567fafcc@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar\
- nModul: 84-993-20212-7190-V1
+DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar
+ \nModul: 84-993-20212-7190-V1
 LOCATION:C 202
 END:VEVENT
 BEGIN:VEVENT
@@ -819,8 +819,8 @@ DTSTART;TZID=Europe/Berlin:20261209T083000
 DTEND;TZID=Europe/Berlin:20261209T100000
 DTSTAMP:20260820T000000Z
 UID:3403bd98d82a0d84@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar\
- nModul: 84-993-20212-7190-V1
+DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar
+ \nModul: 84-993-20212-7190-V1
 LOCATION:C 202
 END:VEVENT
 BEGIN:VEVENT
@@ -849,8 +849,8 @@ DTSTART;TZID=Europe/Berlin:20261211T083000
 DTEND;TZID=Europe/Berlin:20261211T104500
 DTSTAMP:20260820T000000Z
 UID:68d2d1c4a2f3478e@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar\
- nModul: 84-993-20212-7190-V1
+DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar
+ \nModul: 84-993-20212-7190-V1
 LOCATION:C 202
 END:VEVENT
 BEGIN:VEVENT
