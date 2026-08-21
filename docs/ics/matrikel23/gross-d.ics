@@ -9,7 +9,7 @@ SUMMARY:V HW 6.16.1 Geburtshilfliche Notfälle u. Risikomanagegement II/Vo
  rlesung
 DTSTART;TZID=Europe/Berlin:20260401T083000
 DTEND;TZID=Europe/Berlin:20260401T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:c758f7bcae2dfe06@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nGeburtshilfliche Notfälle u
  . Risikomanagement II Seminar\nModul: 84-993-20212-6160-V1
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.16.3 Lernen u. Prozessbegl./Vorlesung
 DTSTART;TZID=Europe/Berlin:20260402T141500
 DTEND;TZID=Europe/Berlin:20260402T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:062c84ac46f1af7d@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nLernen u. Lernprozessbegleitung Seminar\n
  Modul: 84-993-20212-6160-V3
@@ -30,7 +30,7 @@ SUMMARY:V HW 6.16.1 Geburtshilfliche Notfälle u. Risikomanagegement II/Vo
  rlesung
 DTSTART;TZID=Europe/Berlin:20260402T083000
 DTEND;TZID=Europe/Berlin:20260402T100000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:227d7b86c2d1d4aa@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nGeburtshilfliche Notfälle u
  . Risikomanagement II Seminar\nModul: 84-993-20212-6160-V1
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.1 EBM i. d. Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260402T101500
 DTEND;TZID=Europe/Berlin:20260402T134500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:636b662ce79c5a63@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nEBM in der Schwangerenvorsorge im außerk
  linischen Setting Seminar\nModul: 84-993-20212-6150-V1
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.1 EBM i. d. Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260407T123000
 DTEND;TZID=Europe/Berlin:20260407T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:805f970e4371aedb@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nEBM in der Schwangerenvorsorge 
  im außerklinischen Setting Seminar\nModul: 84-993-20212-6150-V1
@@ -61,7 +61,7 @@ SUMMARY:V HW 6.16.2 Akteure\, Strukturen u. Prozesse i. d. außerkl. Gebur
  tsh. Vorl.
 DTSTART;TZID=Europe/Berlin:20260408T083000
 DTEND;TZID=Europe/Berlin:20260408T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:9a0c78e9c502d091@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nAkteure\, Strukturen u. Prozesse i. d. außerkl
  inischen Geburtshilfe Seminar\nModul: 84-993-20212-6160-V2
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.3 Diversität u. Vulnerabilität Vorl.
 DTSTART;TZID=Europe/Berlin:20260408T123000
 DTEND;TZID=Europe/Berlin:20260408T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:dd2ab7a72a216198@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Roth\nDiversität u. Vulnerabilität i. d. Familie
  nbetreuung / Vernetztes Arbeiten Seminar\nModul: 84-993-20212-6150-V3
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.3 Diversität u. Vulnerabilität Vorl.
 DTSTART;TZID=Europe/Berlin:20260409T140000
 DTEND;TZID=Europe/Berlin:20260409T153000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:56c8002866ab5e2f@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nDiversität u. Vulnerabilität i. d. Familienb
  etreuung / Vernetztes Arbeiten Seminar\nModul: 84-993-20212-6150-V3
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.1 EBM i. d. Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260410T083000
 DTEND;TZID=Europe/Berlin:20260410T120000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:9cf86243dd376e34@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nEBM in der Schwangerenvorsorge 
  im außerklinischen Setting Seminar\nModul: 84-993-20212-6150-V1
@@ -102,7 +102,7 @@ SUMMARY:V HW 6.16.1 Geburtshilfliche Notfälle u. Risikomanagegement II/Vo
  rlesung
 DTSTART;TZID=Europe/Berlin:20260413T083000
 DTEND;TZID=Europe/Berlin:20260413T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:17307a56b05d3a7f@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nGeburtshilfliche Notfälle u. Risikomanagement 
  II Seminar\nModul: 84-993-20212-6160-V1
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.1 EBM i. d. Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260413T123000
 DTEND;TZID=Europe/Berlin:20260413T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:31c5cc9693d45f7d@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nEBM in der Schwangerenvorsorge im außerk
  linischen Setting Seminar\nModul: 84-993-20212-6150-V1
@@ -123,7 +123,7 @@ SUMMARY:V HW 6.16.1 Geburtshilfliche Notfälle u. Risikomanagegement II/Vo
  rlesung
 DTSTART;TZID=Europe/Berlin:20260414T123000
 DTEND;TZID=Europe/Berlin:20260414T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:3fae2ed72aeda563@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nGeburtshilfliche Notfälle u. Risikomanagement 
  II Seminar Arbeitsauftrag [1]\nModul: 84-993-20212-6160-V1
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.16.3 Lernen u. Prozessbegl./Vorlesung
 DTSTART;TZID=Europe/Berlin:20260415T083000
 DTEND;TZID=Europe/Berlin:20260415T100000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:2c4b7e562af496a2@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nLernen u. Lernprozessbegleitung Seminar\n
  Modul: 84-993-20212-6160-V3
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.3 Diversität u. Vulnerabilität Vorl.
 DTSTART;TZID=Europe/Berlin:20260415T101500
 DTEND;TZID=Europe/Berlin:20260415T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:9674afe63a08e626@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nDiversität u. Vulnerabilität i. d. Familienb
  etreuung / Vernetztes Arbeiten Seminar\nModul: 84-993-20212-6150-V3
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.1 EBM i. d. Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260416T101500
 DTEND;TZID=Europe/Berlin:20260416T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:43c910b6489ae8fa@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nEBM in der Schwangerenvorsorge 
  im außerklinischen Setting Seminar\nModul: 84-993-20212-6150-V1
@@ -164,7 +164,7 @@ SUMMARY:V HW 6.16.1 Geburtshilfliche Notfälle u. Risikomanagegement II/Vo
  rlesung
 DTSTART;TZID=Europe/Berlin:20260416T083000
 DTEND;TZID=Europe/Berlin:20260416T100000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:547da3a86030a748@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nGeburtshilfliche Notfälle u. Risikomanagement 
  II Seminar\nModul: 84-993-20212-6160-V1
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.3 Diversität u. Vulnerabilität Vorl.
 DTSTART;TZID=Europe/Berlin:20260416T123000
 DTEND;TZID=Europe/Berlin:20260416T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:6fa34c1778ec6b95@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nDiversität u. Vulnerabilität i. d. Familienb
  etreuung / Vernetztes Arbeiten Seminar\nModul: 84-993-20212-6150-V3
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.3 Diversität u. Vulnerabilität Vorl.
 DTSTART;TZID=Europe/Berlin:20260420T123000
 DTEND;TZID=Europe/Berlin:20260420T150000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:150317cf14186e7a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nDiversität u. Vulnerabilität i. d. Familienb
  etreuung / Vernetztes Arbeiten Seminar\nModul: 84-993-20212-6150-V3
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:[D] V HW 6.16.4 Supervision
 DTSTART;TZID=Europe/Berlin:20260420T083000
 DTEND;TZID=Europe/Berlin:20260420T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:b81501ad78fb0c8a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Schreiber\nTheorie-Praxis-Transfer Supervision Gruppe 
  D [4]\nModul: 84-993-20212-6160-V4\nGruppe: D
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.2 Kooperation\, Case-Management u. Qualitätss. Vorl.
 DTSTART;TZID=Europe/Berlin:20260421T123000
 DTEND;TZID=Europe/Berlin:20260421T150000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:b509998465cc1da3@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nKooperation\, Case-Management u. Qualitätssich
  erung Seminar\nModul: 84-993-20212-6170-V2
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.2 Kooperation\, Case-Management u. Qualitätss. Vorl.
 DTSTART;TZID=Europe/Berlin:20260422T123000
 DTEND;TZID=Europe/Berlin:20260422T140000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:e68769f4ba5f2f8b@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nKooperation\, Case-Management u. Qualitätssich
  erung Seminar\nModul: 84-993-20212-6170-V2
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 6.15.1 EBM i. d. Schwangerenvorsorge
 DTSTART;TZID=Europe/Berlin:20260422T083000
 DTEND;TZID=Europe/Berlin:20260422T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:f5f994a0d228ce9d@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nEBM in der Schwangerenvorsorge 
  im außerklinischen Setting Gruppe 1 [6]\nModul: 84-993-20212-6150-V1\nGru
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.3 EBM in Wochenbett u. Stillzeit Vorl.
 DTSTART;TZID=Europe/Berlin:20260615T161500
 DTEND;TZID=Europe/Berlin:20260615T194500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:3d3f86a13e4b155e@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nEBM im Wochenbett und Stillzeit Seminar\nMo
  dul: 84-993-20212-6170-V3
@@ -246,7 +246,7 @@ SUMMARY:V HW 6.16.2 Akteure\, Strukturen u. Prozesse i. d. außerkl. Gebur
  tsh. Vorl.
 DTSTART;TZID=Europe/Berlin:20260615T123000
 DTEND;TZID=Europe/Berlin:20260615T160000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:e795678069515cbc@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nAkteure\, Strukturen u. Prozesse i. d. außerkl
  inischen Geburtshilfe Seminar\nModul: 84-993-20212-6160-V2
@@ -257,7 +257,7 @@ SUMMARY:V HW 6.16.2 Akteure\, Strukturen u. Prozesse i. d. außerkl. Gebur
  tsh. Vorl.
 DTSTART;TZID=Europe/Berlin:20260616T083000
 DTEND;TZID=Europe/Berlin:20260616T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:35367e45daa44489@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nAkteure\, Strukturen u. Prozesse i. d. außerk
  linischen Geburtshilfe Seminar\nModul: 84-993-20212-6160-V2
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.1 Diagn. u. Therap. peripartaler Risiken III/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260616T123000
 DTEND;TZID=Europe/Berlin:20260616T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:6e8a5dda23d688f7@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\nDiagnostik und Therapie peripartal
  er Risiken III Seminar\nModul: 84-993-20212-6170-V1
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:[D] V HW 6.16.4 Supervision
 DTSTART;TZID=Europe/Berlin:20260617T083000
 DTEND;TZID=Europe/Berlin:20260617T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:905dc96d972fd23a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Schreiber\nTheorie-Praxis-Transfer Supervision Gruppe 
  D [3]\nModul: 84-993-20212-6160-V4\nGruppe: D
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.2 Kooperation\, Case-Management u. Qualitätss. Vorl.
 DTSTART;TZID=Europe/Berlin:20260617T123000
 DTEND;TZID=Europe/Berlin:20260617T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:faf16aae89469e6e@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nKooperation\, Case-Management u. Qualitätssich
  erung Seminar\nModul: 84-993-20212-6170-V2
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.4 Praxisbegleitseminar
 DTSTART;TZID=Europe/Berlin:20260618T083000
 DTEND;TZID=Europe/Berlin:20260618T091500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:7f613c9bc487110a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz
 LOCATION:C 202
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.4 Praxisbegleitseminar
 DTSTART;TZID=Europe/Berlin:20260618T091500
 DTEND;TZID=Europe/Berlin:20260618T144500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:836a22837a4ac395@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\, Weeber-Pilz
 LOCATION:C 202
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 6.17.2 Kooperation\, Case-Management u. Qualitätss.
 DTSTART;TZID=Europe/Berlin:20260619T123000
 DTEND;TZID=Europe/Berlin:20260619T150000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:4d050aff5755831d@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nKooperation\, Case-Management u. Qualitätssich
  erung Gruppe 1 [5]\nModul: 84-993-20212-6170-V2\nGruppe: G1
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.1 Diagn. u. Therap. peripartaler Risiken III/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260619T083000
 DTEND;TZID=Europe/Berlin:20260619T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:5c49c6427448c697@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nDiagnostik und Therapie perip
  artaler Risiken III Seminar\nModul: 84-993-20212-6170-V1
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.16.3 Lernen u. Prozessbegl./Vorlesung
 DTSTART;TZID=Europe/Berlin:20260622T123000
 DTEND;TZID=Europe/Berlin:20260622T150000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:100e6a65c6197df0@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nLernen u. Lernprozessbegleitung Seminar\n
  Modul: 84-993-20212-6160-V3
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.1 Diagn. u. Therap. peripartaler Risiken III/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260622T083000
 DTEND;TZID=Europe/Berlin:20260622T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:ea9c54a0a0a6e26c@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\nDiagnostik und Therapie peripartal
  er Risiken III Seminar\nModul: 84-993-20212-6170-V1
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 6.16.3 Lernen u. Prozessbegl.
 DTSTART;TZID=Europe/Berlin:20260623T083000
 DTEND;TZID=Europe/Berlin:20260623T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:96b98855977af32c@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nLernen u. Lernprozessbegleitung Gruppe 1 
  [1]\nModul: 84-993-20212-6160-V3\nGruppe: G1
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.15.1 EBM i. d. Schwangerenvorsorge/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260623T123000
 DTEND;TZID=Europe/Berlin:20260623T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:99d258ebd199652e@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nEBM in der Schwangerenvorsorge 
  im außerklinischen Setting Seminar\nModul: 84-993-20212-6150-V1
@@ -376,7 +376,7 @@ SUMMARY:V HW 6.16.2 Akteure\, Strukturen u. Prozesse i. d. außerkl. Gebur
  tsh. Vorl.
 DTSTART;TZID=Europe/Berlin:20260624T123000
 DTEND;TZID=Europe/Berlin:20260624T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:c2b88beca83ae9b6@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nAkteure\, Strukturen u. Prozesse i. d. außerkl
  inischen Geburtshilfe Seminar\nModul: 84-993-20212-6160-V2
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.3 EBM in Wochenbett u. Stillzeit Vorl.
 DTSTART;TZID=Europe/Berlin:20260624T161500
 DTEND;TZID=Europe/Berlin:20260624T191500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:ce325d5af9d45ec5@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Dr. Stiff\nEBM im Wochenbett und Stillzeit Seminar\nMo
  dul: 84-993-20212-6170-V3
@@ -396,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.1 Diagn. u. Therap. peripartaler Risiken III/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260625T083000
 DTEND;TZID=Europe/Berlin:20260625T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:b93a02ecb2214739@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nDiagnostik und Therapie perip
  artaler Risiken III Seminar\nModul: 84-993-20212-6170-V1
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.1 Diagn. u. Therap. peripartaler Risiken III/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260625T123000
 DTEND;TZID=Europe/Berlin:20260625T140000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:d3d81178cfa75021@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\nDiagnostik und Therapie peripartal
  er Risiken III Seminar\nModul: 84-993-20212-6170-V1
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.16.4 Theorie-Praxis-Transfer Vorl.
 DTSTART;TZID=Europe/Berlin:20260626T083000
 DTEND;TZID=Europe/Berlin:20260626T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:462467aff3d6426c@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: C 202\, online\nTheorie-Praxis-Transfer Seminar Zahnä
  rtlicher Dienst [3]\nModul: 84-993-20212-6160-V4
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.1 Diagn. u. Therap. peripartaler Risiken III/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260626T123000
 DTEND;TZID=Europe/Berlin:20260626T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:9161c968b0266452@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: C 202\, online\nDiagnostik und Therapie peripartaler R
  isiken III Seminar\nModul: 84-993-20212-6170-V1
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 6.16.3 Lernen u. Prozessbegl.
 DTSTART;TZID=Europe/Berlin:20260627T083000
 DTEND;TZID=Europe/Berlin:20260627T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:8a1740454e89e855@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nLernen u. Lernprozessbegleitung Gruppe 1 
  [1]\nModul: 84-993-20212-6160-V3\nGruppe: G1
@@ -445,7 +445,7 @@ SUMMARY:V HW 6.16.2 Akteure\, Strukturen u. Prozesse i. d. außerkl. Gebur
  tsh. Vorl.
 DTSTART;TZID=Europe/Berlin:20260629T123000
 DTEND;TZID=Europe/Berlin:20260629T150000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:03fdf87c8a9b0f26@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nAkteure\, Strukturen u. Prozesse i. d. außerkl
  inischen Geburtshilfe Seminar\nModul: 84-993-20212-6160-V2
@@ -456,7 +456,7 @@ SUMMARY:V HW 6.16.2 Akteure\, Strukturen u. Prozesse i. d. außerkl. Gebur
  tsh. Vorl.
 DTSTART;TZID=Europe/Berlin:20260629T083000
 DTEND;TZID=Europe/Berlin:20260629T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:6bd356539769ee3d@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nAkteure\, Strukturen u. Prozesse i. d. außerk
  linischen Geburtshilfe Seminar\nModul: 84-993-20212-6160-V2
@@ -467,7 +467,7 @@ SUMMARY:V HW 6.16.2 Akteure\, Strukturen u. Prozesse i. d. außerkl. Gebur
  tsh. Vorl.
 DTSTART;TZID=Europe/Berlin:20260630T083000
 DTEND;TZID=Europe/Berlin:20260630T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:70c335a1afcc85d0@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nAkteure\, Strukturen u. Prozesse i. d. außerk
  linischen Geburtshilfe Seminar\nModul: 84-993-20212-6160-V2
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.3 Reatraining/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260630T123000
 DTEND;TZID=Europe/Berlin:20260630T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:88ca558810f2094a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Mauter\nReatraining/Vorlesung\nModul: 84-993-20212-617
  0-V3
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.2 Kooperation\, Case-Management u. Qualitätss. Vorl.
 DTSTART;TZID=Europe/Berlin:20260701T083000
 DTEND;TZID=Europe/Berlin:20260701T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:90dc0446f45f02d0@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nKooperation\, Case-Management
   u. Qualitätssicherung Seminar\nModul: 84-993-20212-6170-V2
@@ -497,7 +497,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 6.17.2 Kooperation\, Case-Management u. Qualitätss.
 DTSTART;TZID=Europe/Berlin:20260701T123000
 DTEND;TZID=Europe/Berlin:20260701T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:958d5c37d1a9e871@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nKooperation\, Case-Management u. Qualitätssich
  erung Gruppe 1 [3]\nModul: 84-993-20212-6170-V2\nGruppe: G1
@@ -507,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.2 Kooperation\, Case-Management u. Qualitätss. Vorl.
 DTSTART;TZID=Europe/Berlin:20260702T083000
 DTEND;TZID=Europe/Berlin:20260702T100000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:a53c0393f4beb0f7@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nKooperation\, Case-Management
   u. Qualitätssicherung Seminar\nModul: 84-993-20212-6170-V2
@@ -518,7 +518,7 @@ SUMMARY:V HW 6.16.2 Akteure\, Strukturen u. Prozesse i. d. außerkl. Gebur
  tsh. Vorl.
 DTSTART;TZID=Europe/Berlin:20260702T101500
 DTEND;TZID=Europe/Berlin:20260702T124500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:c40b0bd8300f96b5@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nAkteure\, Strukturen u. Prozesse i. d. außerk
  linischen Geburtshilfe Seminar\nModul: 84-993-20212-6160-V2
@@ -528,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.16.4 Theorie-Praxis-Transfer Vorl.
 DTSTART;TZID=Europe/Berlin:20260703T083000
 DTEND;TZID=Europe/Berlin:20260703T111500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:1d0c8104f8d2bec6@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nTheorie-Praxis-Transfer Seminar
   Zahnärtzlicher Dienst [1]\nModul: 84-993-20212-6160-V4
@@ -538,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 6.15.1 EBM i. d. Schwangerenvorsorge
 DTSTART;TZID=Europe/Berlin:20260707T123000
 DTEND;TZID=Europe/Berlin:20260707T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:f7eb7548dcb77fb9@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nEBM in der Schwangerenvorsorge 
  im außerklinischen Setting Gruppe 1 [7]\nModul: 84-993-20212-6150-V1\nGru
@@ -549,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 6.17.3 EBM in Wochenbett u. Stillzeit
 DTSTART;TZID=Europe/Berlin:20260708T123000
 DTEND;TZID=Europe/Berlin:20260708T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:2c59d7ccf5fd0d7c@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nEBM im Wochenbett und Stillzeit Gruppe 1 [7]\nM
  odul: 84-993-20212-6170-V3\nGruppe: G1
@@ -559,7 +559,7 @@ BEGIN:VEVENT
 SUMMARY:[G1/G2] V HW 6.17.3 EBM in Wochenbett u. Stillzeit
 DTSTART;TZID=Europe/Berlin:20260709T123000
 DTEND;TZID=Europe/Berlin:20260709T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:0b478b88896dca70@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\nEBM im Wochenbett und Stillzeit Gr
  uppe 1 und Gruppe 2 [9]\nModul: 84-993-20212-6170-V3\nGruppe: G1\, G2
@@ -569,7 +569,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 6.17.2 Kooperation\, Case-Management u. Qualitätss.
 DTSTART;TZID=Europe/Berlin:20260709T123000
 DTEND;TZID=Europe/Berlin:20260709T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:36b66db05ed55104@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nKooperation\, Case-Management u. Qualitätssich
  erung Gruppe 1 [7]\nModul: 84-993-20212-6170-V2\nGruppe: G1
@@ -579,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 6.17.1 Diagn. u. Therap. peripartaler Risiken III/Vorlesung
 DTSTART;TZID=Europe/Berlin:20260709T083000
 DTEND;TZID=Europe/Berlin:20260709T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:791ddc6ec23ebfcb@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nDiagnostik und Therapie perip
  artaler Risiken III Seminar\nModul: 84-993-20212-6170-V1
@@ -589,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 6.17.2 Kooperation\, Case-Management u. Qualitätss.
 DTSTART;TZID=Europe/Berlin:20260710T083000
 DTEND;TZID=Europe/Berlin:20260710T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:1c1b08a88a518972@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nKooperation\, Case-Management u. Qualitätssich
  erung Gruppe 1 [7]\nModul: 84-993-20212-6170-V2\nGruppe: G1
@@ -599,7 +599,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 7.18.4 Identität u. Kontext
 DTSTART;TZID=Europe/Berlin:20261001T083000
 DTEND;TZID=Europe/Berlin:20261001T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:4d430d6b1dc3afc2@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nIdentität und Kontext Seminar\nModul: 84
  -993-20212-7180-V4\nGruppe: G1
@@ -609,7 +609,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.18.1 /7.18.2/7.18.3 Moduleinführung
 DTSTART;TZID=Europe/Berlin:20261002T083000
 DTEND;TZID=Europe/Berlin:20261002T100000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:2dd54551a1e72e62@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nWahlpflicht Case Studies Mod
  uleinführung Vorlesung\nModul: 84-993-20212-7180-V5
@@ -619,7 +619,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.18.1 /7.18.2/7.18.3 Moduleinführung
 DTSTART;TZID=Europe/Berlin:20261002T121500
 DTEND;TZID=Europe/Berlin:20261002T134500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:5e703a1790df578b@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nWahlpflicht Case Studies Module
  inführung Vorlesung\nModul: 84-993-20212-7180-V5
@@ -629,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.18.1 /7.18.2/7.18.3 Moduleinführung
 DTSTART;TZID=Europe/Berlin:20261002T101500
 DTEND;TZID=Europe/Berlin:20261002T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:da1ae1d06e3ecf52@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nWahlpflicht Case Studies Module
  inführung Vorlesung\nModul: 84-993-20212-7180-V5
@@ -639,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:V HW P6 Praxisbegleitseminar Termin 1
 DTSTART;TZID=Europe/Berlin:20261005T123000
 DTEND;TZID=Europe/Berlin:20261005T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:7f027a186844b72a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\, Weeber-Pilz
 LOCATION:C 202
@@ -648,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:V HW P6 Praxisbegleitseminar Termin 1
 DTSTART;TZID=Europe/Berlin:20261005T083000
 DTEND;TZID=Europe/Berlin:20261005T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:e9bf4f16b8894837@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\, Weeber-Pilz
 LOCATION:C 202
@@ -657,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 7.18.4 Identität u. Kontext
 DTSTART;TZID=Europe/Berlin:20261006T083000
 DTEND;TZID=Europe/Berlin:20261006T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:1c4af15775ea49ce@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nIdentität und Kontext Seminar\nModul: 84-993-2
  0212-7180-V4\nGruppe: G1
@@ -667,17 +667,17 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.19.1 Bachelorbegleitseminar
 DTSTART;TZID=Europe/Berlin:20261007T083000
 DTEND;TZID=Europe/Berlin:20261007T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:1320e02fc78a792f@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar\
- nModul: 84-993-20212-7190-V1
+DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar
+ \nModul: 84-993-20212-7190-V1
 LOCATION:C 202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V HW 7.19.1 Bachelorbegleitseminar
 DTSTART;TZID=Europe/Berlin:20261007T123000
 DTEND;TZID=Europe/Berlin:20261007T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:416db41efa65c68c@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nBachelorbegleitseminar Seminar\nModul: 84
  -993-20212-7190-V1
@@ -687,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 7.18.4 Identität u. Kontext
 DTSTART;TZID=Europe/Berlin:20261008T123000
 DTEND;TZID=Europe/Berlin:20261008T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:58af24cebf64bbcb@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nIdentität und Kontext Seminar\nModul: 84
  -993-20212-7180-V4\nGruppe: G1
@@ -697,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:[G1] V HW 7.18.4 Identität u. Kontext
 DTSTART;TZID=Europe/Berlin:20261009T110000
 DTEND;TZID=Europe/Berlin:20261009T131500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:d32c650cd5a1c617@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nIdentität und Kontext Seminar\nModul: 84-993-2
  0212-7180-V4\nGruppe: G1
@@ -707,7 +707,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.19.1 Bachelorbegleitseminar
 DTSTART;TZID=Europe/Berlin:20261207T083000
 DTEND;TZID=Europe/Berlin:20261207T134500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:a8a4f71a01d60335@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professor Dr. Abou-Dakn\nBachelorbegleitseminar Semina
  r\nModul: 84-993-20212-7190-V1
@@ -717,7 +717,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.19.1 Bachelorbegleitseminar
 DTSTART;TZID=Europe/Berlin:20261208T083000
 DTEND;TZID=Europe/Berlin:20261208T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:3050c5ef6ccec687@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nBachelorbegleitseminar Semin
  ar\nModul: 84-993-20212-7190-V1
@@ -727,27 +727,27 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.19.1 Bachelorbegleitseminar
 DTSTART;TZID=Europe/Berlin:20261208T123000
 DTEND;TZID=Europe/Berlin:20261208T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:50a65490567fafcc@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar\
- nModul: 84-993-20212-7190-V1
+DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar
+ \nModul: 84-993-20212-7190-V1
 LOCATION:C 202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V HW 7.19.1 Bachelorbegleitseminar
 DTSTART;TZID=Europe/Berlin:20261209T083000
 DTEND;TZID=Europe/Berlin:20261209T100000
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:3403bd98d82a0d84@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar\
- nModul: 84-993-20212-7190-V1
+DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar
+ \nModul: 84-993-20212-7190-V1
 LOCATION:C 202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V HW 7.19.1 Bachelorbegleitseminar
 DTSTART;TZID=Europe/Berlin:20261209T101500
 DTEND;TZID=Europe/Berlin:20261209T134500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:3ccfd49e513582cf@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Feldhaus-Plumin\nBachelorbegleitsemina
  r Seminar\nModul: 84-993-20212-7190-V1
@@ -757,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.19.1 Bachelorbegleitseminar
 DTSTART;TZID=Europe/Berlin:20261210T083000
 DTEND;TZID=Europe/Berlin:20261210T134500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:64dde71d05a4ed4c@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nBachelorbegleitseminar Semin
  ar\nModul: 84-993-20212-7190-V1
@@ -767,10 +767,10 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.19.1 Bachelorbegleitseminar
 DTSTART;TZID=Europe/Berlin:20261211T083000
 DTEND;TZID=Europe/Berlin:20261211T104500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:68d2d1c4a2f3478e@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar\
- nModul: 84-993-20212-7190-V1
+DESCRIPTION:Dozent: Professorin Dr. Simon\nBachelorbegleitseminar Seminar
+ \nModul: 84-993-20212-7190-V1
 LOCATION:C 202
 END:VEVENT
 BEGIN:VEVENT
@@ -778,7 +778,7 @@ SUMMARY:V HW 7.18.3 Wahlpflicht Case Studies 3: Fallreflexion Wochenbett\,
   Neugeborenes u. Stillen
 DTSTART;TZID=Europe/Berlin:20261211T111500
 DTEND;TZID=Europe/Berlin:20261211T144500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:72317b81c0b5ce0a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nWahlpflicht Case Studies 3: Fallreflexionen Woc
  henbett\, Neugeborenes u. Stillen Seminar\nModul: 84-993-20212-7180-V3
@@ -788,7 +788,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.19.1 Bachelorbegleitseminar
 DTSTART;TZID=Europe/Berlin:20261214T083000
 DTEND;TZID=Europe/Berlin:20261214T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:d9175ce9a9d6d5f4@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nBachelorbegleitseminar Semina
  r\nModul: 84-993-20212-7190-V1
@@ -799,7 +799,7 @@ SUMMARY:V HW 7.18.1 Wahlpflicht Case Studies 1: Fallreflexion Schwangersch
  aft
 DTSTART;TZID=Europe/Berlin:20261215T141500
 DTEND;TZID=Europe/Berlin:20261215T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:5d4a835bf3516923@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nWahlpflicht Case Studies 1: Fal
  lreflexionen Schwangerschaft Seminar\nModul: 84-993-20212-7180-V1
@@ -810,7 +810,7 @@ SUMMARY:V HW 7.18.1 Wahlpflicht Case Studies 1: Fallreflexion Schwangersch
  aft
 DTSTART;TZID=Europe/Berlin:20261215T083000
 DTEND;TZID=Europe/Berlin:20261215T134500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:67d286dd4d9533d8@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nWahlpflicht Case Studies 1: Fal
  lreflexionen Schwangerschaft Seminar\nModul: 84-993-20212-7180-V1
@@ -820,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.18.2 Wahlpflicht Case Studies 2: Fallreflexion Geburt
 DTSTART;TZID=Europe/Berlin:20261216T123000
 DTEND;TZID=Europe/Berlin:20261216T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:2f1ec302a2914e6a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professor Dr. Abou-Dakn\nWahlpflicht Case Studies 2. F
  allreflexionen Geburt Seminar\nModul: 84-993-20212-7180-V2
@@ -830,7 +830,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.18.2 Wahlpflicht Case Studies 2: Fallreflexion Geburt
 DTSTART;TZID=Europe/Berlin:20261216T083000
 DTEND;TZID=Europe/Berlin:20261216T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:e5e2be8e07d350da@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nWahlpflicht Case Studies 2. 
  Fallreflexionen Geburt Seminar\nModul: 84-993-20212-7180-V2
@@ -840,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.18.2 Wahlpflicht Case Studies 2: Fallreflexion Geburt
 DTSTART;TZID=Europe/Berlin:20261217T083000
 DTEND;TZID=Europe/Berlin:20261217T134500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:aba92be949727c17@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nWahlpflicht Case Studies 2. Fallreflexionen Ge
  burt Seminar\nModul: 84-993-20212-7180-V2
@@ -850,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.18.2 Wahlpflicht Case Studies 2: Fallreflexion Geburt
 DTSTART;TZID=Europe/Berlin:20261218T083000
 DTEND;TZID=Europe/Berlin:20261218T134500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:d85c7baeb866065f@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professor Dr. Abou-Dakn\nWahlpflicht Case Studies 2. F
  allreflexionen Geburt Seminar\nModul: 84-993-20212-7180-V2
@@ -860,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:V HW 7.18.2 Wahlpflicht Case Studies 2: Fallreflexion Geburt
 DTSTART;TZID=Europe/Berlin:20270104T123000
 DTEND;TZID=Europe/Berlin:20270104T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:04121ffe1c499b9a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nWahlpflicht Case Studies 2. 
  Fallreflexionen Geburt Seminar\nModul: 84-993-20212-7180-V2
@@ -871,7 +871,7 @@ SUMMARY:V HW 7.18.3 Wahlpflicht Case Studies 3: Fallreflexion Wochenbett\,
   Neugeborenes u. Stillen
 DTSTART;TZID=Europe/Berlin:20270104T083000
 DTEND;TZID=Europe/Berlin:20270104T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:d291a35ca16db000@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nWahlpflicht Case Studies 3: Fallreflexionen Woc
  henbett\, Neugeborenes u. Stillen Seminar\nModul: 84-993-20212-7180-V3
@@ -882,7 +882,7 @@ SUMMARY:V HW 7.18.3 Wahlpflicht Case Studies 3: Fallreflexion Wochenbett\,
   Neugeborenes u. Stillen
 DTSTART;TZID=Europe/Berlin:20270105T083000
 DTEND;TZID=Europe/Berlin:20270105T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:0626a8d113869d38@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nWahlpflicht Case Studies 3: Fallreflexionen Woc
  henbett\, Neugeborenes u. Stillen Seminar\nModul: 84-993-20212-7180-V3
@@ -893,7 +893,7 @@ SUMMARY:V HW 7.18.3 Wahlpflicht Case Studies 3: Fallreflexion Wochenbett\,
   Neugeborenes u. Stillen
 DTSTART;TZID=Europe/Berlin:20270106T123000
 DTEND;TZID=Europe/Berlin:20270106T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:307971872bd84e07@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\nWahlpflicht Case Studies 3: Fallre
  flexionen Wochenbett\, Neugeborenes u. Stillen Seminar\nModul: 84-993-2021
@@ -905,7 +905,7 @@ SUMMARY:V HW 7.18.1 Wahlpflicht Case Studies 1: Fallreflexion Schwangersch
  aft
 DTSTART;TZID=Europe/Berlin:20270106T083000
 DTEND;TZID=Europe/Berlin:20270106T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:41bba112f4af5c42@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nWahlpflicht Case Studies 1: Fallreflexion
  en Schwangerschaft Seminar\nModul: 84-993-20212-7180-V1
@@ -916,7 +916,7 @@ SUMMARY:V HW 7.18.1 Wahlpflicht Case Studies 1: Fallreflexion Schwangersch
  aft
 DTSTART;TZID=Europe/Berlin:20270107T083000
 DTEND;TZID=Europe/Berlin:20270107T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:6c3fff21ff5fc72a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nWahlpflicht Case Studies 1: Fallreflexion
  en Schwangerschaft Seminar\nModul: 84-993-20212-7180-V1
@@ -927,7 +927,7 @@ SUMMARY:V HW 7.18.3 Wahlpflicht Case Studies 3: Fallreflexion Wochenbett\,
   Neugeborenes u. Stillen
 DTSTART;TZID=Europe/Berlin:20270108T083000
 DTEND;TZID=Europe/Berlin:20270108T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:4856f7f545240b6b@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\nWahlpflicht Case Studies 3: Fallre
  flexionen Wochenbett\, Neugeborenes u. Stillen Seminar\nModul: 84-993-2021
@@ -939,7 +939,7 @@ SUMMARY:V HW 7.18.1 Wahlpflicht Case Studies 1: Fallreflexion Schwangersch
  aft
 DTSTART;TZID=Europe/Berlin:20270108T123000
 DTEND;TZID=Europe/Berlin:20270108T154500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:9907a57aac6259db@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nWahlpflicht Case Studies 1: Fal
  lreflexionen Schwangerschaft Seminar\nModul: 84-993-20212-7180-V1
@@ -949,7 +949,7 @@ BEGIN:VEVENT
 SUMMARY:V HW P6 Praxisbegleitseminar Termin 2
 DTSTART;TZID=Europe/Berlin:20270305T121500
 DTEND;TZID=Europe/Berlin:20270305T144500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:75dc60077cf31494@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\, Weeber-Pilz
 LOCATION:C 202
@@ -958,7 +958,7 @@ BEGIN:VEVENT
 SUMMARY:V HW P6 Praxisbegleitseminar Termin 2
 DTSTART;TZID=Europe/Berlin:20270305T083000
 DTEND;TZID=Europe/Berlin:20270305T114500
-DTSTAMP:20260820T000000Z
+DTSTAMP:20260821T000000Z
 UID:ab8f7277c4862f82@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\, Weeber-Pilz
 LOCATION:C 202
