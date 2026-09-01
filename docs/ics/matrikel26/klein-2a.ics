@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:[2a] V HW 1.4.2 Förd. d. phys. Geburt I
 DTSTART;TZID=Europe/Berlin:20261125T123000
 DTEND;TZID=Europe/Berlin:20261125T144500
-DTSTAMP:20260831T000000Z
+DTSTAMP:20260901T000000Z
 UID:c7580b5bbf1d4356@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nFörderung der physiologischen Geburt\nModul: 8
  4-993-20212-1040-V2\nGruppe: 2a
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:[2a] U HW 1.3.3 Pflege i. d. Geburtsh.
 DTSTART;TZID=Europe/Berlin:20261126T123000
 DTEND;TZID=Europe/Berlin:20261126T154500
-DTSTAMP:20260831T000000Z
+DTSTAMP:20260901T000000Z
 UID:d382d82224a3ec12@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nPflege in der Geburtshilfe\nModul: 84-993-20212
  -1030-V3\nGruppe: 2a
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[2a] U HW 1.1.3 Kommunikation
 DTSTART;TZID=Europe/Berlin:20261130T123000
 DTEND;TZID=Europe/Berlin:20261130T154500
-DTSTAMP:20260831T000000Z
+DTSTAMP:20260901T000000Z
 UID:fa1fbbc0ae0c5460@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Bezold\nKommunikation und Beziehungsgestaltung\nModul:
   84-993-20212-1010-V3\nGruppe: 2a
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:[2a] V HW 1.4.2 Förd. d. phys. Geburt I
 DTSTART;TZID=Europe/Berlin:20261207T083000
 DTEND;TZID=Europe/Berlin:20261207T114500
-DTSTAMP:20260831T000000Z
+DTSTAMP:20260901T000000Z
 UID:1376a55c698a7461@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt\nMo
  dul: 84-993-20212-1040-V2\nGruppe: 2a
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:[2a] U HW 1.4.1 Betreuung i. d. phys. Schw.
 DTSTART;TZID=Europe/Berlin:20261216T123000
 DTEND;TZID=Europe/Berlin:20261216T154500
-DTSTAMP:20260831T000000Z
+DTSTAMP:20260901T000000Z
 UID:0179a00bc7adb284@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Simon\nBetreuung i. d. physiologischen
   Schwangerschaft\nModul: 84-993-20212-1040-V1\nGruppe: 2a
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:[2a] V HW 1.4.2 Förd. d. phys. Geburt I
 DTSTART;TZID=Europe/Berlin:20261216T083000
 DTEND;TZID=Europe/Berlin:20261216T114500
-DTSTAMP:20260831T000000Z
+DTSTAMP:20260901T000000Z
 UID:05865c03ca5a4ca8@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt\nMo
  dul: 84-993-20212-1040-V2\nGruppe: 2a
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:[2a] U HW 1.4.5 Förd. v. Laktation u. Stillbez./Vorlesung
 DTSTART;TZID=Europe/Berlin:20270104T123000
 DTEND;TZID=Europe/Berlin:20270104T154500
-DTSTAMP:20260831T000000Z
+DTSTAMP:20260901T000000Z
 UID:602c8b7bb1d9c2c8@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Kunze\nFörderung v. Laktation u. Stillbeziehung Semin
  ar\nModul: 84-993-20212-1040-V5\nGruppe: 2a
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:[2a] U HW 1.4.3 Beob./Diagn. u. Pflege/Vorlesung
 DTSTART;TZID=Europe/Berlin:20270105T083000
 DTEND;TZID=Europe/Berlin:20270105T114500
-DTSTAMP:20260831T000000Z
+DTSTAMP:20260901T000000Z
 UID:5a2f6c32d4217ad0@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\nBeobachtung\,Diagnostik u. Pflege 
  d. gesunden Neugeborenen/Säuglings Seminar\nModul: 84-993-20212-1040-V3\n
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:[2a] U HW 1.4.1 Betreuung i. d. phys. Schw.
 DTSTART;TZID=Europe/Berlin:20270111T123000
 DTEND;TZID=Europe/Berlin:20270111T154500
-DTSTAMP:20260831T000000Z
+DTSTAMP:20260901T000000Z
 UID:545c832d4f6d24da@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Weeber-Pilz\nBetreuung i. d. physiologischen Schwanger
  schaft\nModul: 84-993-20212-1040-V1\nGruppe: 2a
