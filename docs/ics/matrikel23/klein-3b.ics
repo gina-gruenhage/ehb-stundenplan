@@ -9,7 +9,7 @@ SUMMARY:[3b] V HW 6.16.1 Geburtshilfliche Notfälle u. Risikomanagegement
  II
 DTSTART;TZID=Europe/Berlin:20260422T083000
 DTEND;TZID=Europe/Berlin:20260422T114500
-DTSTAMP:20260902T000000Z
+DTSTAMP:20260903T000000Z
 UID:3107abafb441e9b6@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Grieshop\nGeburtshilfliche Notfälle u
  . Risikomanagement II Gruppe 3b [7]\nModul: 84-993-20212-6160-V1\nGruppe: 
@@ -21,7 +21,7 @@ SUMMARY:[3b] V HW 6.16.1 Geburtshilfliche Notfälle u. Risikomanagegement
  II
 DTSTART;TZID=Europe/Berlin:20260619T123000
 DTEND;TZID=Europe/Berlin:20260619T154500
-DTSTAMP:20260902T000000Z
+DTSTAMP:20260903T000000Z
 UID:b531bef417a5c811@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professorin Dr. Mangler\nGeburtshilfliche Notfälle u.
   Risikomanagement II Gruppe 3b [4]\nModul: 84-993-20212-6160-V1\nGruppe: 3
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:[3b] V HW 6.17.3 Reatraining
 DTSTART;TZID=Europe/Berlin:20260710T083000
 DTEND;TZID=Europe/Berlin:20260710T114500
-DTSTAMP:20260902T000000Z
+DTSTAMP:20260903T000000Z
 UID:4a4e06127c56bb86@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Professor Dr. Lück\, Mauter\nReatraining Gruppe 3b [8
  ]\nModul: 84-993-20212-6170-V3\nGruppe: 3b
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:[3b] V HW 6.17.1 Diagn. u. Therap. peripartaler Risiken III
 DTSTART;TZID=Europe/Berlin:20260710T123000
 DTEND;TZID=Europe/Berlin:20260710T154500
-DTSTAMP:20260902T000000Z
+DTSTAMP:20260903T000000Z
 UID:c458fcc92e05366a@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\nDiagnostik und Therapie peripartal
  er Risiken III Gruppe 3b [8]\nModul: 84-993-20212-6170-V1\nGruppe: 3b
