@@ -19,9 +19,10 @@ SUMMARY:[1a] U HW 1.1.3 Kommunikation
 DTSTART;TZID=Europe/Berlin:20261119T123000
 DTEND;TZID=Europe/Berlin:20261119T154500
 DTSTAMP:20261027T000000Z
-UID:b6b4ffb4a6ad4a39@ehb-stundenplan.claudette
+UID:c1ccbc4621fcdb72@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Beitz\nKommunikation und Beziehungsgestaltung\nModul: 
  84-993-20212-1010-V3\nGruppe: 1a
+LOCATION:C 204
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[1a] U HW 1.3.3 Pflege i. d. Geburtsh.

@@ -838,6 +838,16 @@ DESCRIPTION:Dozent: Freifrau von Godin\nBeobachtung\,Diagnostik u. Pflege
 LOCATION:B 202
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:V HW 1.1.3 Kommunikation
+DTSTART;TZID=Europe/Berlin:20261203T083000
+DTEND;TZID=Europe/Berlin:20261203T114500
+DTSTAMP:20261027T000000Z
+UID:6ec80bb5985f0597@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Beitz\nKommunikation und Beziehungsgestaltung\nModul: 
+ 84-993-20212-1010-V3
+LOCATION:B 202
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:V HW 1.3.2 Gesundheitssoz./Vorlesung
 DTSTART;TZID=Europe/Berlin:20261204T083000
 DTEND;TZID=Europe/Berlin:20261204T114500
