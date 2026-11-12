@@ -4,7 +4,7 @@ Hält die EHB-Termine in Ginas Google-Kalender aktuell. Quellen sind die Feeds K
 und Gross B in diesem Repo und der Kalender „EHB St. Joseph Termine“. Die Regeln stehen
 in `scripts/ehb_kalender_abgleich.py`.
 
-**Start:** Die Routine startet, montags früh.
+**Start:** Die Routine startet nach ihrem Zeitplan.
 
 **Stopp:** `plan` meldet `fertig` oder `fehler`, und deine letzte Nachricht ist die
 `meldung` daraus.
