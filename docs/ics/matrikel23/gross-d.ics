@@ -1044,17 +1044,17 @@ SUMMARY:V HW P6 Praxisbegleitseminar Termin 2
 DTSTART;TZID=Europe/Berlin:20270305T121500
 DTEND;TZID=Europe/Berlin:20270305T144500
 DTSTAMP:20261117T000000Z
-UID:75dc60077cf31494@ehb-stundenplan.claudette
+UID:1ac3304787558ff9@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\, Weeber-Pilz
-LOCATION:C 202
+LOCATION:B 202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V HW P6 Praxisbegleitseminar Termin 2
 DTSTART;TZID=Europe/Berlin:20270305T083000
 DTEND;TZID=Europe/Berlin:20270305T114500
 DTSTAMP:20261117T000000Z
-UID:ab8f7277c4862f82@ehb-stundenplan.claudette
+UID:52a12656d0adf059@ehb-stundenplan.claudette
 DESCRIPTION:Dozent: Freifrau von Godin\, Weeber-Pilz
-LOCATION:C 202
+LOCATION:B 202
 END:VEVENT
 END:VCALENDAR

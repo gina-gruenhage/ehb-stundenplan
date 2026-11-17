@@ -5,13 +5,13 @@ METHOD:PUBLISH
 X-WR-CALNAME:EHB HW 1. Sem Klein 1a
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:[1a] V HW 1.4.2 Förd. d. phys. Geburt I
-DTSTART;TZID=Europe/Berlin:20261117T110000
+SUMMARY:[1a] U HW 1.4.1 Betreuung i. d. phys. Schw.
+DTSTART;TZID=Europe/Berlin:20261117T111500
 DTEND;TZID=Europe/Berlin:20261117T141500
 DTSTAMP:20261117T000000Z
-UID:b49abb3ef9547314@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt\nMo
- dul: 84-993-20212-1040-V2\nGruppe: 1a
+UID:ac1f880ae2b65232@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Weeber-Pilz\nBetreuung i. d. physiologischen Schwanger
+ schaft\nModul: 84-993-20212-1040-V1\nGruppe: 1a
 LOCATION:C 106
 END:VEVENT
 BEGIN:VEVENT
@@ -86,13 +86,13 @@ DESCRIPTION:Dozent: Kunze\nFörderung v. Laktation u. Stillbeziehung Semin
 LOCATION:C 109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[1a] U HW 1.4.1 Betreuung i. d. phys. Schw.
+SUMMARY:[1a] V HW 1.4.2 Förd. d. phys. Geburt I
 DTSTART;TZID=Europe/Berlin:20270106T123000
 DTEND;TZID=Europe/Berlin:20270106T154500
 DTSTAMP:20261117T000000Z
-UID:fe44f63a0fc47f08@ehb-stundenplan.claudette
-DESCRIPTION:Dozent: Weeber-Pilz\nBetreuung i. d. physiologischen Schwanger
- schaft\nModul: 84-993-20212-1040-V1\nGruppe: 1a
+UID:6d80e908f82237d4@ehb-stundenplan.claudette
+DESCRIPTION:Dozent: Weeber-Pilz\nFörderung der physiologischen Geburt\nMo
+ dul: 84-993-20212-1040-V2\nGruppe: 1a
 LOCATION:C 101\, C 104
 END:VEVENT
 END:VCALENDAR
